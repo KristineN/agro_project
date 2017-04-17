@@ -1,0 +1,464 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body { margin:0px;
+        padding:0px;}
+		
+.div { margin:0px;
+       padding:0px;
+	   }
+
+.big { background: url(../../%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D1%83%D1%80%D0%BE%D0%BA%D0%B8%20HTML/slide_bg.jpg);
+        width:100%;
+		height:auto;
+		margin: 0px auto;
+		padding-top:53px;
+        }
+		
+.clear { clear:both;}
+
+.table_1 { background-color:#FFF;
+			width:1090px;
+			height:100%;
+			margin-right:auto;
+			margin-left:auto;
+            }
+			
+.menu { width:100%;
+		margin:0px auto;
+			}
+		
+.menu_c { width:565px;
+          height:102px;
+		  top:0px;
+          display: table;
+		  margin-right:auto;
+		  margin-left: auto;
+		  font-family:Tahoma, Geneva, sans-serif;
+	      font-size:18px;
+		  display:block;
+		  position:relative;
+          }	
+		  
+.blockl { background:url(../../%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D1%83%D1%80%D0%BE%D0%BA%D0%B8%20HTML/roll.png);
+          color:#FFF;
+		  width:93px;
+		  height:45px;
+           padding-top:64px;
+           float:left;
+	       text-align: center;
+		   text-decoration:none;
+	      cursor:pointer;
+		  display: inline-block;
+		  position:relative;
+		  top: -12px;
+		  }
+		  
+.blockl .span {
+				background: url(../images/part%202/cutmenu.png);
+				position: absolute;
+				top: 0px;
+				right: -12px;
+				width: 12px;
+				height: 12px;
+}
+		  	
+.block_l {      
+			width: 93px;
+			height: 33px;
+			text-align: center;
+			padding-top:66px;
+			margin-left: 0px;
+			position: relative;
+			float:left;
+			cursor: pointer;
+			text-decoration:none;
+			top:-12px;
+			color:#7d594d;
+			display: inline-block;
+          }
+.block_l:hover { background:url(../../%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D1%83%D1%80%D0%BE%D0%BA%D0%B8%20HTML/roll.png);
+                 color:#FFF;
+				 height:43px;
+				 top:-12px;
+				 }
+				 
+.block_l .span {
+				background: url(../images/part%202/cutmenu.png);
+				position: absolute;
+				top: 0px;
+				right: -12px;
+				width: 12px;
+				height: 12px;
+				visibility:hidden;
+}
+
+.block_l:hover .span { visibility:visible;}		
+
+.block_l:hover .hr1 { color:#FFF;}		 
+				 
+.span {
+		background: url(../images/part%202/cutmenu.png);
+		position: absolute;
+		top: 0px;
+		right: -12px;
+		width: 12px;
+		height: 12px;
+	      }
+	  
+.hr { text-decoration:none;
+      color:#FFF;
+	  }
+	  
+.hr1 { color:#7d594d;
+       text-decoration:none;
+        }
+	   
+.logo { height: 90px;
+        background-position:center;
+		padding-top:8px;
+		}
+		
+.text { font-family:Tahoma, Geneva, sans-serif;
+         color:#c2ac83;
+		 font-size:14px;
+		 margin-top:8px;
+		}
+		
+	
+.img { margin-top:40px;
+        background-position:center;
+        height:470px;}
+		
+.image2 { margin-top:20px;}
+
+.block_bottom { width:940px;
+                margin:auto;
+				padding-top:25px;
+				height:400px;
+				
+				} 	
+		
+.block_2 { 
+           width:300px;
+		   float:left;
+		   background: url(../images/block-1_shape.jpg);
+		   margin: auto;
+		   }
+
+.block_3 {  width:300px;
+            float:left;
+			margin-left:17px;
+			margin-right:17px;
+			 background: url(../images/block-1_shape.jpg);}
+
+.block_4 { width:300px;
+           float:left;
+		   background: url(../images/block-1_shape.jpg);;
+		   margin:auto;
+		}
+		
+.textblock { font-family:Tahoma, Geneva, sans-serif;
+             font-size: 18px;
+			 color:#fdd330;
+			  }
+			 
+.p1 { font-family:Tahoma, Geneva, sans-serif;
+        font-size:18px;
+		color:#754f44;
+	}
+		
+.p2 { font-family:Tahoma, Geneva, sans-serif;
+      font-size:14px;
+	  color:#9a9785;
+	}
+	  
+.a  { font-family:Tahoma, Geneva, sans-serif;
+      font-size:14px; 
+	  color:#754f44;
+	  cursor:pointer;
+	  text-decoration:none;
+	}
+	  
+.a:hover { text-decoration:underline;
+           color:#fdd330;
+           }
+		   
+.link { display:block;
+        height:22px;
+		width:102px;
+		background-image:url(../images/button1.jpg);
+		padding-top:10px;
+		background-position:center;
+		border-radius:5px;
+		margin-top:35px;
+		 margin-bottom:25px;
+		}
+
+.link:hover { background-image:url(../images/button2.jpg);}
+
+.table_2 { width:940px;
+            height:100px;
+			margin:auto;
+			padding-top:25px;
+			 }
+			 
+.line { 
+        width:300px;
+        font-family:Tahoma, Geneva, sans-serif;
+		font-size:20px;
+		color:#754f44;
+		margin-top:20px;
+		float: left;
+         }
+
+.text2 { font-family:Tahoma, Geneva, sans-serif;
+         font-size:20px; 
+		 color:#fdd330;
+		}
+		 
+.line_2 { width: 620px;
+          font-family:Tahoma, Geneva, sans-serif; 
+		  font-size:20px;
+		  color:#754f44;
+		  float: left;
+		  margin-top:20px;
+		  margin-left:20px;
+		  }
+		  
+.table_3 { width:940px;
+           margin:auto;
+		   height:230px;
+          }
+
+.list { width:285px;
+        height:220px;
+		margin:auto;
+		margin-left:7px;
+		padding-left:8px;
+		float: left;
+	 }
+	 
+.li { list-style-image:url(../images/marker_01.png);
+      vertical-align:top;
+	  margin-bottom:5px;
+     }
+
+.a1 { font-family:Tahoma, Geneva, sans-serif;
+      font-size:12px;
+	  color:#765145;
+	  text-decoration:none;
+	  cursor:pointer;
+	  line-height:14px;
+	  margin-left:5px;
+	  }
+
+.a1:hover { text-decoration:underline;
+            color:#000;
+        }
+	
+.table_4 { width:615px;
+           height:220px;
+		   float:left;
+		   margin-left:20px;
+          }
+
+.image3 { width:220px;
+          height:219px;
+		  background-image: url(../%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/templates%202/page1_img_04.jpg);
+		  float:left;
+		}
+		  
+.text3 { font-family:Tahoma, Geneva, sans-serif;
+         font-size:12px;
+		 color:#aea580;
+		 float:left;
+		 height:220px;
+		 text-align: left;
+		 margin-left:17px;
+		}
+
+.title { font-family:Tahoma, Geneva, sans-serif;
+         font-size:20px;
+		 color:#aea580;
+		 text-align: left;
+		 margin:auto;
+		}
+
+.textr { font-size:13px;
+         line-height:20px; 
+     }
+
+.link2 {
+	    display: block;
+	    height: 22px;
+	    width: 102px;
+	    background-image: url(../images/button1.jpg);
+	    padding-top: 10px;
+	    background-position: center;
+	    border-radius: 5px;
+	    margin-top: 25px;
+	    margin-bottom: 25px;
+        }
+
+.link2:hover {background-image:url(../images/button2.jpg); 
+}
+
+.table_5 { width:940px;
+	margin: auto;
+	height: 100px;
+	padding-top:50px;
+    }
+
+.menu_2 { width:540px;
+          height:100px;
+		  background:url(../%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/templates%202/menu2_shape.jpg);
+		  float:left;
+		  margin:0px auto;
+		   }
+.block_5 { width:510px;
+           height:45px;
+		   margin:auto;
+		   margin-top:28px;
+		   margin-bottom:28px;
+		   border-collapse:separate;}
+		   
+.button {  
+          width:83px;
+		  border-right:1px;
+		  border-right-style:solid;
+		  border-right-color:#FFF;
+		  text-align:center;
+		  float:left;
+		  margin-top:8px;
+		
+}
+.text_button { line-height:30px;
+		       font-family:Tahoma, Geneva, sans-serif;
+		       font-size:13px;
+		       font-weight: bold;
+		       color: #FFF;
+		       cursor:pointer;
+		       text-decoration:none;}
+			   
+.text_button:hover { color:#704b3f; }
+			   
+.button1  { width:70px;
+		  border-right:1px;
+		  border-right-style:solid;
+		  border-right-color:#FFF;
+		  text-align:center;
+		  float:left;
+		  margin-top:8px;
+		  padding-left:5px;
+		   }
+		   
+.text_button1 { line-height:30px;
+		       font-family:Tahoma, Geneva, sans-serif;
+		       font-size:13px;
+		       font-weight: bold;
+		       color:#704b3f;
+		       cursor:pointer;
+		       text-decoration:none; }
+			   
+.button2 { width:83px;
+		  text-align:center;
+		  float:left;
+		  margin-top:8px;}
+		  
+.text_button2 { line-height:30px;
+		       font-family:Tahoma, Geneva, sans-serif;
+		       font-size:13px;
+		       font-weight: bold;
+		       color: #FFF;
+		       cursor:pointer;
+		       text-decoration:none; }
+.text_button2:hover { color:#704b3f; }
+
+.table_6 { width:380px;
+            height:100px;
+			margin:0px auto;
+			float:left;
+			margin-left:20px;
+			background:url(../%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/templates%202/banner_shape.jpg);}
+			
+.menu_3 { width:350px;
+          height:70px;
+		  margin:auto;
+		  margin-top:15px;
+		}
+
+.logof { width:40px;
+         height:39px;
+		 background-image:url(../images/white_icon_f.png);
+		 background-position:center;
+		 margin-top:15px;
+		 cursor:pointer;
+		 float:left;
+		 }
+
+.logof:hover { background-image:url(../images/brown_icon_f.png);}
+
+.logo_text { width:300px;
+             height:60px;
+			 float:left;
+			 margin:auto;
+			 margin-top:3px;
+             margin-left:10px;
+             }
+
+.text4 { font-family:Tahoma, Geneva, sans-serif;
+         font-size:20px;
+		 color:#734e42;
+		 text-align:lefr;
+		 line-height:2px;
+		 margin-bottom:20px;
+		 }
+		 
+.text5 { font-family:Tahoma, Geneva, sans-serif;
+         font-size:11px;
+		 color:#8c876e;
+		 text-align:left;
+		 line-height:2px;
+		}
+		 
+.line_3 { width:940px;
+          height:2px;
+		  margin: 0px auto;
+		  margin-top:10px;
+		}
+		  
+.footer { width:100%;
+          height:100px;
+          margin:0px;
+      }
+
+.text_footer { width:100%;
+               height:20px;
+               font-family:Tahoma, Geneva, sans-serif;
+               font-size:13px;
+			   color:#745951;
+			   margin-top:22px;
+			   text-align:center;
+			   font-weight:bold;
+			   float:left;
+			}
+			   
+.smalllogo { width:10px;
+             height:14px;
+			 float:left;
+			 background:url(../images/smalllogo.png);
+			 background-position:center;
+			}
+			 
+.policy { cursor:pointer;
+          text-decoration:none;
+		  color:#745951;
+		}
+		  
+.policy:hover { text-decoration:underline;}
+
+
+
+
+

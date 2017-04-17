@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body { margin:0px;
+        padding:0px;}
+
+.f1 {
+	 width:298px;
+	 float:left;
+	 border:1px solid #000;
+
+	}
+
+.f2 {
+	width:298px;
+	float: left;
+	text-align: right;
+	border:1px solid #000;
+	}
+
+.f3 { 
+    width:200px;
+
+} 
+
+#maincontent { width:100%;
+               margin:0px auto;
+			   border:1px solid #000; }
+			   
+.clear { clear:both;}
+
+
+
+
+.f_l { float:left;
+       border:1px solid #000;
+	   background-color:#999;
+      }
+	  
+.padding_x { margin-left:10px; margin-right:10px;
+	
+	}
+	  
+.f_r { float:right;
+      }
+
+
+
+
+
+
+
+
+
+
+
+			   
+			   
+			   
